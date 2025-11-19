@@ -1,4 +1,4 @@
-package Constructor;
+package S1_Constructor;
 
 public class Sample3
 {

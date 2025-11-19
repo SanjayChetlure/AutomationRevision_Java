@@ -1,4 +1,4 @@
-package ConditionalStatement;
+package S1_ConditionalStatement;
 public class ex2_if_else
 {
     public static void main(String[] args)

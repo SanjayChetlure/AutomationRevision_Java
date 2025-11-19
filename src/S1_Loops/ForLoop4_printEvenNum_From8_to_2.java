@@ -1,4 +1,4 @@
-package Loops;
+package S1_Loops;
 
 public class ForLoop4_printEvenNum_From8_to_2
 {

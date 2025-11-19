@@ -1,4 +1,4 @@
-package ConditionalStatement;
+package S1_ConditionalStatement;
 
 public class Ex5_SwitchCase
 {

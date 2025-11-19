@@ -1,5 +1,5 @@
-package ConditionalStatement;
-public class ex3_elseIf
+package S1_ConditionalStatement;
+public class ex3_elseIf2
 {
     public static void main(String[] args)
     {
@@ -21,10 +21,9 @@ public class ex3_elseIf
         {
             System.out.println("Pass");
         }
-        else if (marks<35)
+        else
         {
             System.out.println("fail");
         }
-
     }
 }

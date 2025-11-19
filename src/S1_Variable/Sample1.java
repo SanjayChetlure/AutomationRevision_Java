@@ -1,4 +1,4 @@
-package Variable;
+package S1_Variable;
 
 public class Sample1
 {

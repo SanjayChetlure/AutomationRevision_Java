@@ -1,6 +1,4 @@
-package Constructor;
-
-import Methods.Sample2;
+package S1_Constructor;
 
 public class Sample1
 {

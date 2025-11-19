@@ -1,4 +1,4 @@
-package Loops;
+package S1_Loops;
 
 public class ForLoop2_printEvenNum_From2_to_10
 {

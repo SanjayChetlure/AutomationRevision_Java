@@ -1,4 +1,4 @@
-package Methods;
+package S1_Methods;
 
 public class Sample4
 {

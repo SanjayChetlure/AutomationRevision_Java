@@ -1,4 +1,4 @@
-package Loops;
+package S1_Loops;
 
 public class ForLoop1_printNumFrom1_to_5
 {

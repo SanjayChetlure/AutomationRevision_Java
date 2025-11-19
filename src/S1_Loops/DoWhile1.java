@@ -1,4 +1,4 @@
-package Loops;
+package S1_Loops;
 
 public class DoWhile1
 {
