@@ -7,14 +7,14 @@ public interface CommonFunctions
 	{
 		m1();
 		//code to get excel data
-		
+        System.out.println("running code to get excel datt");
 		//return excel data
 	}
 	
 	
 	public static void captureSS() 
 	{
-		m1();
+        System.out.println("running code to capture SS");
 		//code to capture		
 	}
 	

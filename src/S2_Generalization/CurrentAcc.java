@@ -2,7 +2,6 @@ package S2_Generalization;
 //IC2
 public class CurrentAcc  implements BankAcc
 {
-	
 	public void CD()
 	{
 		System.out.println("CD: 11L");

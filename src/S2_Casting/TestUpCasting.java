@@ -14,6 +14,7 @@ public class TestUpCasting
 		 Father f=new Son();
 		 f.car();
 		 f.money();
-		 f.home();	
+		 f.home();
+//         f.mobile()
 	}
 }

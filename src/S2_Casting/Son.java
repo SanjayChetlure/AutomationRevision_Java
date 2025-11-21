@@ -14,7 +14,7 @@ public class Son extends Father
 	
 	public void money() 
 	{
-		System.out.println("money: 2L");
+		System.out.println("money: 0.5L");
 	}
 	
 //	public void home() 
