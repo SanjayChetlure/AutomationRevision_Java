@@ -14,6 +14,9 @@ public class StringClassMethod2
 		System.out.println(s1+s2+s3);      			    //velocityabcd
 		System.out.println(s1.concat(s2).concat(s3));   //velocityabcd
 		System.out.println(s4.trim());
-		System.out.println(s5.replace("abc", "xyz"));		
+		System.out.println(s5.replace("abc", "xyz"));
+
+        String [] ar=s5.split(" ");
+        System.out.println(ar[2]);
 	}
 }

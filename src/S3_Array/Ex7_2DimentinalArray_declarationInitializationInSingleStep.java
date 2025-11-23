@@ -6,6 +6,7 @@ public class Ex7_2DimentinalArray_declarationInitializationInSingleStep
 		//  0  1  2
 		//0 10 20 30         2*3 
 		//1 40 50 60
+        //2 70 80 90
 		
 		
 		int [][] ar= { {10, 20, 30}, {40, 50, 60}, {70,80,90}};

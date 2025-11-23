@@ -8,8 +8,8 @@ public class ex1_ArrayList
 {
 	public static void main(String[] args) 
 	{
-		//ArrayList al=new ArrayList();        //initial/by default capacity=10
-		ArrayList al=new ArrayList(50);        //initial capacity=50
+		ArrayList al=new ArrayList();        //initial/by default capacity=10
+//		ArrayList al=new ArrayList(50);        //initial capacity=50
 		al.add("rahul");
 		al.add(101);
 		al.add(65.5f);

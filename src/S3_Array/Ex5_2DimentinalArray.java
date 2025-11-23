@@ -24,11 +24,11 @@ public class Ex5_2DimentinalArray
 		
 		System.out.println("-----");
 		
-		//       0   2<=1
+
 		for(int i=0; i<=1; i++)          		    //1: outer for loop -> rows
-		{		//   0   3<=2
+		{
 			for(int j=0; j<=2; j++)     		    //2: inner for loop -> cols
-			{					//  1  2
+			{
 				System.out.print(ar[i][j]+" ");     //3: print info using print statement
 			}
 			System.out.println();					//4: empty println statement

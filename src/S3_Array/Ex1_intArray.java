@@ -8,9 +8,10 @@ public class Ex1_intArray
 		ar[0]=30;
 		ar[1]=10;
 		ar[2]=40;
-		ar[3]=20;		
+		ar[3]=20;
+        ar[0]=300;   //reinitialization
 		
-		System.out.println(ar[0]);         //30
+		System.out.println(ar[0]);         //300
 		System.out.println(ar.length);     //4
 		
 		System.out.println("---print all data from int array--");

@@ -17,7 +17,7 @@ public class Ex3_ArraySorting1
 		}	
 		
 		//Array Sorting
-		Arrays.sort(ar);   //className.methodName();
+		Arrays.sort(ar);   //className.methodName(arrayObjName);
 		System.out.println("---print data after sorting(ascending order)--");
 		for(int i=0; i<=ar.length-1; i++)
 		{
